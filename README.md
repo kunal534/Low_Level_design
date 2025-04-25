@@ -23,14 +23,9 @@ Low_Level_design/
 │   └── main.py
 │
 ├── splitwise/
-│   ├── BalanceSheet.py
 │   ├── Expense.py
-│   ├── ExpenseManager.py
-│   ├── ExpenseMetadata.py
-│   ├── ExpenseSplit.py
-│   ├── EqualExpense.py
-│   ├── ExactExpense.py
-│   ├── Split.py
+│   ├── Split_strategy.py
+│   ├── Splitwise.py
 │   ├── User.py
 │   └── main.py
 ```
